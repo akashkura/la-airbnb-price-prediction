@@ -31,8 +31,8 @@ The following chart illustrates the distribution of Airbnb listing prices after 
 
 
 ### Random Forest Model Performance
-- **Mean Absolute Error (MAE)**: `XX.XX`
-- **R² Score**: `X.XX`
+- **Mean Absolute Error (MAE)**: 125.00656302266427
+- **R² Score**: 0.31880336540347987
 
 ---
 
